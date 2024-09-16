@@ -4,7 +4,11 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
+<<<<<<< HEAD
     "start": "node app.js"
+=======
+     "start": "node app.js"
+>>>>>>> f91589a2ce20fce502eaa56b46cbdffe1e9448d6
   },
   "author": "Abid",
   "license": "ISC",
@@ -16,3 +20,4 @@
     "request": "^2.88.2"
   }
 }
+
