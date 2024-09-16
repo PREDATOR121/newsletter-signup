@@ -4,7 +4,7 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+     "start": "node app.js"
   },
   "author": "Abid",
   "license": "ISC",
@@ -14,8 +14,5 @@
     "express": "^4.20.0",
     "request": "^2.88.2"
   }
-}
-"scripts": {
-  "start": "node app.js"
 }
 
